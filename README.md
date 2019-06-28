@@ -1,4 +1,5 @@
 "# BCPNN" 
+
 Implementation of BCPNN(Bayesian Confidence Propagation Neural Network) method used to predict ADR(Adverse Drug Reaction) Signals
 
 Database: The database used is that of the FDA ADR reports.
